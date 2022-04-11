@@ -13,12 +13,6 @@
     margin: 0;
 }
 
-:root {
-    --corcabeca: darkred;
-    
-}
-
-
 
 body {
     padding: 0;
@@ -28,9 +22,7 @@ body {
 }
 
 header {
-    height: 210px;
-   
-    background: yellow;
+    height: 210px;    
     margin-bottom: 3px;
     background-image: linear-gradient( to bottom, #84E1AD, #233b2e );
     box-shadow: 2px 2px 5px #1d3326;
@@ -195,7 +187,7 @@ ul {
 }
 
 main p#pbaixo {
-    font-family:;
+   
     padding: 10px;
     font-size: 1.1rem;
     background:#84E1AD ;
@@ -234,7 +226,7 @@ footer {
     height: 30px;
     background: #1d3326 ;
     font-family: Oswald;
-    padding: ;
+    
 }
 
 footer a {
